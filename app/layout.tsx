@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Kim Thuy | Personal Portfolio",
-  description: "KimThuy is a full-stack developer with 2 years of experience.",
+  description: "KimThuy is a full-stack developer with  years of experience.",
 };
 
 export default function RootLayout({
@@ -21,9 +21,6 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="!scroll-smooth">
-      <head>
-      <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png"/>
-      </head>
       <body
         className={`${inter.className} bg-gray-50 text-gray-950 relative pt-28 sm:pt-36 dark:bg-gray-900 dark:text-gray-50 dark:text-opacity-90`}
       >
