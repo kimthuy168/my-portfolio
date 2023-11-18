@@ -133,6 +133,4 @@ export const skillsData = [
       NameSkill: "Blazor",
       ImagesSkill : "/images/skill/blazor.png"
     }
-
-
 ] as const;
