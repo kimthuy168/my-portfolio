@@ -85,23 +85,54 @@ export const projectsData = [
 ] as const;
 
 export const skillsData = [
-  "HTML",
-  "CSS",
-  "JavaScript",
-  "TypeScript",
-  "React",
-  "Next.js",
-  "Node.js",
-  "Git",
-  "Tailwind",
-  "Prisma",
-  "MongoDB",
-  "Redux",
-  "GraphQL",
-  "Apollo",
-  "Express",
-  "PostgreSQL",
-  "Python",
-  "Django",
-  "Framer Motion",
+    {
+      NameSkill: "Figma Design",
+      ImagesSkill : "/images/skill/figma.png"
+    },
+    {
+      NameSkill: "TailWind Css",
+      ImagesSkill : "/images/skill/tailwind.png"
+    },
+    {
+      NameSkill: "HTM ",
+      ImagesSkill : "/images/skill/html.png"
+    },
+    {
+      NameSkill: "CSS ",
+      ImagesSkill : "/images/skill/css.png"
+    },
+    {
+      NameSkill: "React Js",
+      ImagesSkill : "/images/skill/react.png"
+    },
+    {
+      NameSkill: "Node Js",
+      ImagesSkill : "/images/skill/nodsjs.png"
+    },
+    {
+      NameSkill: "Mantine ",
+      ImagesSkill : "/images/skill/mantin.png"
+    },
+    {
+      NameSkill: "SCSS ",
+      ImagesSkill : "/images/skill/scss.png"
+    },
+    {
+      NameSkill: "Next Js",
+      ImagesSkill : "/images/skill/nextjs.png"
+    },
+    {
+      NameSkill: "C#",
+      ImagesSkill : "/images/skill/c.png"
+    },
+    {
+      NameSkill: "RadZen Blazor",
+      ImagesSkill : "/images/skill/radzen.png"
+    },
+    {
+      NameSkill: "Blazor",
+      ImagesSkill : "/images/skill/blazor.png"
+    }
+
+
 ] as const;
