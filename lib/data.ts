@@ -86,51 +86,51 @@ export const projectsData = [
 
 export const skillsData = [
     {
-      NameSkill: "Figma Design",
-      ImagesSkill : "/images/skill/figma.png"
+      nameskill: "Figma Design",
+      imagesskill : "/images/skill/figma.png"
     },
     {
-      NameSkill: "TailWind Css",
-      ImagesSkill : "/images/skill/tailwind.png"
+      nameskill: "TailWind Css",
+      imagesskill : "/images/skill/tailwind.png"
     },
     {
-      NameSkill: "HTM ",
-      ImagesSkill : "/images/skill/html.png"
+      nameskill: "HTM ",
+      imagesskill : "/images/skill/html.png"
     },
     {
-      NameSkill: "CSS ",
-      ImagesSkill : "/images/skill/css.png"
+      nameskill: "CSS ",
+      imagesskill : "/images/skill/css.png"
     },
     {
-      NameSkill: "React Js",
-      ImagesSkill : "/images/skill/react.png"
+      nameskill: "React Js",
+      imagesskill : "/images/skill/react.png"
     },
     {
-      NameSkill: "Node Js",
-      ImagesSkill : "/images/skill/nodsjs.png"
+      nameskill: "Node Js",
+      imagesskill : "/images/skill/nodsjs.png"
     },
     {
-      NameSkill: "Mantine ",
-      ImagesSkill : "/images/skill/mantin.png"
+      nameskill: "Mantine ",
+      imagesskill : "/images/skill/mantin.png"
     },
     {
-      NameSkill: "SCSS ",
-      ImagesSkill : "/images/skill/scss.png"
+      nameskill: "SCSS ",
+      imagesskill : "/images/skill/scss.png"
     },
     {
-      NameSkill: "Next Js",
-      ImagesSkill : "/images/skill/nextjs.png"
+      nameskill: "Next Js",
+      imagesskill : "/images/skill/nextjs.png"
     },
     {
-      NameSkill: "C#",
-      ImagesSkill : "/images/skill/c.png"
+      nameskill: "C#",
+      imagesskill : "/images/skill/c.png"
     },
     {
-      NameSkill: "RadZen Blazor",
-      ImagesSkill : "/images/skill/radzen.png"
+      nameskill: "RadZen Blazor",
+      imagesskill : "/images/skill/radzen.png"
     },
     {
-      NameSkill: "Blazor",
-      ImagesSkill : "/images/skill/blazor.png"
+      nameskill: "Blazor",
+      imagesskill : "/images/skill/blazor.png"
     }
 ] as const;

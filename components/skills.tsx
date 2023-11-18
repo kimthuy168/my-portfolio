@@ -35,7 +35,7 @@ export default function Skills() {
       {skillsData.map((skill, index) => 
         <div >
             <Image
-              src={skill.ImagesSkill}
+              src={skill.imagesskill}
               alt="Ricardo portrait"
               width="100"
               height="100"
@@ -43,7 +43,7 @@ export default function Skills() {
               priority={true}
               className="h-24 w-24 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
             />
-            {skill.NameSkill}
+            {skill.nameskill}
         </div>
       )}
       </div>
