@@ -32,7 +32,7 @@ export default function Skills() {
     >
       <SectionHeading>My skills</SectionHeading>
       <div className="flex flex-wrap justify-center gap-2 text-lg text-gray-800">
-      {skillsData.map((skill, index) => 
+      {skillsData.map((skill) => 
         <div >
             <Image
               src={skill.imagesskill}
